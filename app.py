@@ -1,0 +1,1 @@
+print("Student Management System")
